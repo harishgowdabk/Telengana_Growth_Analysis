@@ -1,7 +1,8 @@
 # Telengana_Growth_Analysis
 
 
-Objective: • Explore Stamp Registration, Transportation and Ts-Ipass Datasets. Understand their attributes, categories, and time periods. 
+Objective: 
+• Explore Stamp Registration, Transportation and Ts-Ipass Datasets. Understand their attributes, categories, and time periods. 
 • Analyze trends and patterns within each department. 
 • Identify growth opportunities and areas needing attention. 
 • Find correlations among these departments and report the state's overall growth through insights and relevant visuals such as shape maps.
